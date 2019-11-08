@@ -38,6 +38,10 @@ router.get('/hello', function(req, res) {
   res.json({ answer: 42 });
 });
 
+router.get('/hello', function(req, res) {
+  res.json({ answer: 42 });
+});
+
 app.use('/', router);
 
 app.listen(port);
