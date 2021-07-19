@@ -43,3 +43,5 @@ A git log paranccsal meg tudjuk nézni, hogy milyen változtatásokat végeztek 
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 
 git status
+
+2019. november 8-án változtatták meg a fájlt, hogy megfeleljen a szakma standardjének.
